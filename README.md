@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Pinto-Katende-Jonathan/Pinto-Katende-Jonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, Jonathan PINTO
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis Jonathan, et je suis licencié en Techniques mathématiques appliquées à la gestion et à l'informatique.
+Je suis plus passionné par la programmation web, l'intelligence artificielle et par l'analyse de données.
+
+Skills: PYTHON / FLASK / NODE JS / REACT / JS / HTML / CSS
+
+- 🌱 I’m currently learning React / Django 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@KATENDEPINTO)  
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pinto-Katende-Jonathan)](https://github.com/Pinto-Katende-Jonathan/github-readme-stats)
