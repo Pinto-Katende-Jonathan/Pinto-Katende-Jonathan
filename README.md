@@ -3,7 +3,7 @@
 ### Hi there 👋, Jonathan PINTO
 
 
-Je suis Jonathan, et je suis licencié en Techniques mathématiques appliquées à la gestion et à l'informatique.
+Je suis Jonathan, et je suis licencié en Techniques mathématiques appliquées à la gestion et à l'informatique.\
 Je suis plus passionné par la programmation web, l'intelligence artificielle et par l'analyse de données.
 
 Skills: PYTHON / FLASK / NODE JS / REACT / JS / HTML / CSS
