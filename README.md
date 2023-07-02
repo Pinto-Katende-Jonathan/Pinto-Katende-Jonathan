@@ -4,7 +4,7 @@
 Je suis Jonathan, et je suis licencié en Techniques mathématiques appliquées à la gestion et à l'informatique.\
 Je suis plus passionner par la programmation web, l'intelligence artificielle et par l'analyse de données.
 
-Skills: PYTHON / FLASK / NODE JS / REACT / JS / HTML / CSS
+Skills: PYTHON / FLASK /DJANGO / NODE JS / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning React / Django 
 
