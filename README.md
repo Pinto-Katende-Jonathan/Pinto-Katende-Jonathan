@@ -5,11 +5,12 @@
 I'm Jonathan, and I have a degree in Mathematical techniques applied to management and computer science.\
 I'm more passionate about web programming, artificial intelligence and data analysis.
 
-🌱 Skills: [PYTHON](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue) DJANGO / FLASK / NODE JS / REACT JS
+🌱 Skills: PYTHON DJANGO / FLASK / NODE JS / REACT JS
 
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Python" src="[https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue)" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
