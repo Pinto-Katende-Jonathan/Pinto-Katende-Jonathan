@@ -1,5 +1,6 @@
 ### Hi there 👋, Jonathan PINTO
 
+<p><a href="https://www.twitter.com/katendepinto"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
 
 I'm Jonathan, and I have a degree in Mathematical techniques applied to management and computer science.\
 I'm more passionate about web programming, artificial intelligence and data analysis.
