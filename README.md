@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://www.fiverr.com/pintkatende"><img src="https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff" height=25></a> 
-  <a href="https://www.linkedin.com/in/pinto-katende-jonathan-525a2b205"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="[https://www.linkedin.com/in/pinto-katende-jonathan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
 I'm Jonathan, and I have a degree in Mathematical techniques applied to management and computer science.\
